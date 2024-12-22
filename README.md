@@ -1,6 +1,6 @@
 # CodeAnt AI Assignment by Sarthak Rangari
 
-This will start the React app on http://localhost:3000/ by default. Open your browser and navigate to that address to see the app in action.
+View live version of project here: https://codeant-ai-assignment-five.vercel.app
 
 ### Project Setup Instructions
 
