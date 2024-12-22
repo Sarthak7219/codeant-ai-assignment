@@ -10,6 +10,7 @@ const HomePage = () => {
         gap: "20px",
         color: "#007bff",
         fontSize: "20px",
+        textDecoration: "underline",
       }}
     >
       <NavLink to={"/repositories"}>Repositories Page</NavLink>

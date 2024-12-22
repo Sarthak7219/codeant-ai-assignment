@@ -10,6 +10,7 @@ const Repositories = () => {
     setIsSidebarActive((prev) => !prev);
   };
 
+  // Remove "active" class if width > 768px
   useEffect(() => {
     const handleResize = () => {
       if (window.innerWidth > 768) {
