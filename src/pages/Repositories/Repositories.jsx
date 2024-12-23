@@ -100,7 +100,7 @@ const Repositories = () => {
             <div className="top1">
               <div className="head">
                 <h1>Repositories</h1>
-                <p>33 total repositories</p>
+                <p>7 total repositories</p>
               </div>
 
               {/* Buttons */}
