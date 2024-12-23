@@ -362,6 +362,11 @@ img{
     gap: 12px;
     align-self: stretch;
     border-bottom: 1px solid #D5D7DA;
+    cursor: pointer;
+}
+
+.box-container .box:hover{
+    background: #F5F5F5;
 }
 
 .box .name{
