@@ -104,6 +104,7 @@ img{
     position: fixed;
     transition: left 0.3s ease-in-out;
     z-index: 500;
+    border-right: 1px solid #E9EAEB;
 }
 
 .container .nav{
@@ -225,7 +226,7 @@ img{
     width: 100%;
     height: fit-content;
     margin: 24px;
-    margin-left: 242px;
+    margin-left: 266px;
     display: flex;
     flex-direction: column;
     gap: 0px;
