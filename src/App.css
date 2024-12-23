@@ -697,6 +697,13 @@ img{
     min-height: 328.4px;
 }
 
+/* Page not found CSS */
+.not-found-page{
+    margin: auto;
+    padding: 30px;
+    font-size: 20px;
+}
+
 /* Responsive CSS */
 @media screen and (max-width: 768px){
     .container .nav{
